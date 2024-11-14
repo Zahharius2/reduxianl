@@ -1,0 +1,55 @@
+{
+  "heroes": [
+    {
+      "id": "0afad338-8f8c-437f-a6f9-345e069fb30a",
+      "name": "giros",
+      "descriptions": "idk",
+      "element": "fire"
+    },
+    {
+      "id": "3ffb8240-12ac-4701-9c19-98a6b2ee95fd",
+      "name": "markiplier",
+      "descriptions": "horror king",
+      "element": "water"
+    },
+    {
+      "id": "ed7a9ea8-18b3-4bf3-9d8a-fbb7635a7141",
+      "name": "zaza",
+      "descriptions": "zaza",
+      "element": "earth"
+    },
+    {
+      "id": "901cc047-939e-4371-941f-4da564cd4d28",
+      "name": "john egbert",
+      "descriptions": "wind thingy",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
